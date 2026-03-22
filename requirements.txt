@@ -5,5 +5,5 @@ matplotlib
 seaborn
 plotly
 joblib
-streamlit==1.31.1
-altair==4.2.2
+streamlit
+altair
